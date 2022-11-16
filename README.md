@@ -1,4 +1,4 @@
-# FilanTech Data Structure & Algorithms Bootcam in java / DSA With Kunal
+# DSA With Kunal
  
 #### Start Date
 November 8th, 2022
