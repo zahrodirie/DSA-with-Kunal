@@ -1,6 +1,6 @@
 # DSA With Kunal - Log [Zahro Ahmed Dirie]
 
-### Day 1: November 8, 2022
+## Day 1: November 8, 2022
 
 Today's Progress: I Learned Introduction of DSA (Data Structure & Algorithms)
 
